@@ -1,0 +1,15 @@
+.wrapperTodos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 5rem;
+    background-color: #FDFDFD;
+    margin: 1rem;
+}
+
+@media screen and (max-width: 500px){
+    .wrapperTodos{
+        width: 100vw;
+    }
+}
