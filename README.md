@@ -1,6 +1,6 @@
 
 <p align = "center">
-    Aplicação desenvolvida com o objetivo para organizar os afazeres do cotidiano.
+    Aplicação desenvolvida com o objetivo de organizar os afazeres do cotidiano.
 </p>
 
 <div align = "center">
@@ -11,7 +11,7 @@
 
 # 📷 Demonstração 
 <div align = "center">
-    <img alt = "example" src="./todoAppGif.gif" width='1280' >
+    <img alt = "example" src="./todoGif.gif" width='600' >
 </div>
 
 # 🚀 Tecnologias 
